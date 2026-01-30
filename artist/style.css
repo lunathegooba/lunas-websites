@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://f4.bcbits.com/img/a4259075005_16.jpg); background-repeat:no-repeat; background-size: cover;
+}
+.background-image  {
+opacity:50%
+}
+h1 {
+    text-align:center; color:rgb(255, 35, 35); font-size:75px;
+}
+
+h2 {
+    text-align:center; color:rgb(119, 38, 38); font-size: 40px;
+}
+
+p {
+    font-size:30px; color:rgb(250, 250, 250); background-color:rgba(128, 128, 128, 0.473); border-radius:10px;
+}
+
+body, h1, h2, p {
+    font-family: cursive;
+}
+
+table, th, tr, td {
+    text-align:center; color:maroon; font-size:50px;
+     border: 4px solid black;
+    border-collapse: collapse;
+    /* center the table */
+    /* margin: auto; */
+    margin: 0 auto;
+    background-color:rgba(240, 248, 255, 0.37);
+}
+
+input[type="radio"] {
+    width:30px; height:30px;
+}

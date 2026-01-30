@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* center the table */
+    /* margin: auto; */
+    margin: 0 auto;
+}
+th, td {
+    padding: 20px;
+    text-align: left;
+}
+
+table {
+    background-color: aliceblue;
+    /* move to center */
+    margin-top: 25%
+
+}
+
+body {
+    background-image: url(https://media.tenor.com/DNLpiRVgHKoAAAAM/cat-eyebrow-smile-cat-meme.gif)
+}

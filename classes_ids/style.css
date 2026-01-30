@@ -1,0 +1,50 @@
+/* dots represent a class */
+.city {
+    color:rgb(255, 255, 255);
+    font-family:cursive;
+}
+
+/* hashtag represents an ID selector in CSS */
+#london {
+    font-size: 20px;
+    font-weight: bold;
+    background-color:plum
+}
+
+#paris {
+    font-size: 20px;
+    font-weight:bold;
+    background-color:coral
+}
+
+#tokyo {
+    font-size: 20px;
+    font-weight: bold;
+    background-color:darkorchid
+}
+
+body {
+    background-color:darkslategray;
+}
+
+p {
+    color:white;
+    font-family:cursive
+}
+
+.images {
+    border-radius:15%;
+    border-width:10px;
+}
+
+#londonimage {
+    border-color:plum
+}
+
+#parisimage {
+    border-color:coral
+}
+
+#tokyoimage {
+    border-color:darkorchid
+}
